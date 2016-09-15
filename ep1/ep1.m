@@ -3,6 +3,10 @@
 # 
 #
 
+# switch positions along the array index
+function deriva (f)
+
+endfunction
 
 function newton_basis (f, n)
     l = length(a);
